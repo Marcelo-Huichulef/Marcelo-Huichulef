@@ -1,58 +1,26 @@
-# Marcelo Huichulef
+# Hi, I'm Marcelo 👋
 
-Software Engineer focused on Cloud and Software Architecture.
+Software Engineer focused on **Cloud Architecture, AWS and System Design**.
 
-I am currently building hands-on experience designing, implementing, securing and evaluating cloud architectures on AWS.
+Currently building hands-on experience designing secure, resilient and cost-aware cloud architectures.
 
-## Current Focus
+## ☁️ Projects
 
-- AWS Cloud Architecture
-- Software Architecture
-- Cloud Security
-- System Design
-- High Availability and Resilience
-- Infrastructure as Code
+### [AWS SAA-C03 Practical Labs](https://github.com/Marcelo-Huichulef/aws-saa-labs)
+Hands-on AWS labs aligned with the Solutions Architect Associate domains.
 
-## Current Learning
-
-- AWS Cloud Foundations
-- AWS Cloud Architecting
-- AWS Cloud Security Foundations
-- AWS Certified Solutions Architect - Associate (SAA-C03)
-
-## Current Projects
-
-### AWS SAA-C03 Practical Labs
-
-Hands-on experiments organized around the four SAA-C03 architecture domains:
-
-- Secure Architectures
-- Resilient Architectures
-- High-Performing Architectures
-- Cost-Optimized Architectures
-
-### AWS Architecture Patterns
-
-Architecture case studies focused on translating requirements into AWS designs, diagrams, ADRs and documented trade-offs.
+### [AWS Architecture Patterns](https://github.com/Marcelo-Huichulef/aws-architecture-patterns)
+Architecture exercises, diagrams, ADRs and design trade-offs.
 
 ### Independent Professional Platform
+Cloud-based platform for independent professionals.  
+`In design`
 
-Cloud-native SaaS concept for independent professionals to manage client requests, projects, appointments, files and workflows.
+## 🎯 Current Focus
 
-Status: Product discovery.
+`AWS` · `Cloud Architecture` · `System Design` · `Cloud Security` · `Infrastructure as Code`
 
-## Previous Experience
+## 📚 Currently
 
-My previous projects include Data Science and Machine Learning work, which I continue to use as complementary skills when designing cloud solutions.
-
-## Currently Building
-
-My goal is to develop a portfolio that demonstrates practical cloud architecture skills through:
-
-- hands-on AWS labs
-- architecture documentation
-- security experiments
-- system design
-- failure testing
-- cost analysis
-- real-world projects
+AWS-focused **Cloud Infrastructure Diploma**  
+Preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**
